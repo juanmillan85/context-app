@@ -1,63 +1,6 @@
 
 /* --------------------------------------------------------------------
-    The context software is for storing, retrieving, and matching context information 
-    and meta-data for applications and services.
-    The theoretical foundations of this software have been published in various 
-    scientific publications. 
-    
-    This release has been made available for the general public to be able to 
-    contribute to making ubiquitous and context-aware applications and services,
-    and to help making such adaptive systems widespread in the society to the benefit 
-    of application developers and organizations interested in retrieving and filtering
-    context information and meta-data across a wide spectrum of applications and services. 
-    A good starting point for understanding the underlying foundations for this software,
-    is to read: 
-    
-		Information Retrieval: Searching in the 21st Century
-		Dr Ayse Goker (Editor), John Davies (Co-Editor)
-		ISBN: 978-0-470-03363-0
-		Available E-book as and hard-cover book
-		320 pages
-		December 2009
-		
-	The context software is released as a prototype software for research purposes for 
-	anyone to use the way they want.
-
-	This new initial version has been completely re-written with a simpler 
-	SQL database on a more datawarehouse style.
-
-	The long-term goal is try to make it a cloud-based and highly 
-	scalable solution that will use Solandra as the storage solution.
-    
-    Copyright (C) 2005 and onwards by AmbieSense Limited, which is an R&D-focused company incorporated in Scotland, and/or its subsidiaries and co-founders.
-    Contact: AmbieSense Ltd (kontact A T ambiesense.com, replace "A T" with @).
-     
-	The AmbieSense context software is available under the GNU General Public License, Version 3.
-	Reference: GNU General Public License, version 3, found on http://www.gnu.org/licenses/ 
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    
-    If the program you make does terminal interaction, make it output a short
-    notice like this when it starts in an interactive mode:
-
-    AmbieSense context software.  Copyright (C) 2005 AmbieSense Ltd, Hans Myrhaug (co-founder).
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
-    
-
----------------------------------------------------------------------------
+ ---------------------------------------------------------------------------
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
