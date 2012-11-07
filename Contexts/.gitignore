@@ -3,8 +3,8 @@
 .project
 .settings/
 
-*/target/*
-*/bin/*
+**/target/*
+**/bin/*
 #general
 *~
 10.
